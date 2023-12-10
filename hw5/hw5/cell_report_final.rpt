@@ -1,0 +1,74 @@
+ 
+****************************************
+Report : cell
+Design : arbiter
+Version: S-2021.06-SP3
+Date   : Tue Oct 10 13:14:21 2023
+****************************************
+
+Attributes:
+    b - black box (unknown)
+    h - hierarchical
+    n - noncombinational
+    r - removable
+    u - contains unmapped logic
+
+Cell                      Reference       Library             Area  Attributes
+--------------------------------------------------------------------------------
+U25                       INV_X1          NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            0.5320  
+U26                       INV_X1          NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            0.5320  
+U27                       AOI211_X2       NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            1.3300  
+U28                       AOI221_X2       NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            1.5960  
+U29                       NOR2_X1         NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            0.7980  
+U30                       NAND2_X1        NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            0.7980  
+U31                       NOR2_X1         NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            0.7980  
+U32                       OAI21_X1        NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            1.0640  
+U33                       NOR3_X1         NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            1.0640  
+U34                       AOI21_X1        NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            1.0640  
+U35                       OR3_X1          NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            1.3300  
+U36                       NAND2_X1        NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            0.7980  
+U37                       INV_X1          NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            0.5320  
+U38                       NAND2_X1        NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            0.7980  
+U39                       INV_X1          NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            0.5320  
+U40                       OAI22_X1        NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            1.3300  
+U41                       NOR3_X1         NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            1.0640  
+U42                       NAND2_X1        NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            0.7980  
+U43                       NOR2_X1         NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            0.7980  
+U44                       INV_X1          NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            0.5320  
+U45                       NOR2_X1         NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            0.7980  
+U46                       NOR2_X1         NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            0.7980  
+current_state_reg[0]      DFFS_X1         NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            5.8520  n
+current_state_reg[1]      DFFR_X1         NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            5.5860  n
+current_state_reg[2]      DFFR_X1         NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            5.5860  n
+current_state_reg[3]      DFFR_X1         NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            5.5860  n
+current_state_reg[4]      DFFR_X1         NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+                                                            5.5860  n
+--------------------------------------------------------------------------------
+Total 27 cells                                             47.8800
+1

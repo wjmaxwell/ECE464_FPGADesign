@@ -1,0 +1,72 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.2 2021.04, Apr 14 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/mnt/ncsudrive/w/wjmaxwe2/ECE464/hw5
+T_opt
+!s110 1696949841
+VE[MOD4KDWP:R^=@giUH^V3
+04 11 4 work testfixture fast 0
+=1-14187755b88c-6525664f-aee-4ce
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OE;O;2021.2;73
+varbiter
+!s110 1696949749
+!i10b 1
+!s100 P<I3LkXdS>R73j?8V]=[F2
+I2N`TCCg>QWJ<FNfOdg5oP3
+R1
+w1696949734
+8simpleArbiter.v
+FsimpleArbiter.v
+!i122 11
+L0 3 78
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OE;L;2021.2;73
+r1
+!s85 0
+31
+!s108 1696949748.000000
+!s107 simpleArbiter.v|
+!s90 simpleArbiter.v|
+!i113 0
+Z5 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vtestfixture
+!s110 1696949374
+!i10b 1
+!s100 `9`gWmFiK[nDRWJ[n<11[1
+IQLH=7cUC;iSzj?bR:0hA:1
+R1
+w1696887541
+8simpleArbiter_test.v
+FsimpleArbiter_test.v
+!i122 10
+L0 1 31
+R3
+R4
+r1
+!s85 0
+31
+!s108 1696949373.000000
+!s107 simpleArbiter_test.v|
+!s90 simpleArbiter_test.v|
+!i113 0
+R5
+R2
